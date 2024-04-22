@@ -1,0 +1,6 @@
+import io.netty.handler.ssl.AbstractSniHandler;
+public class FunctionUse826 {
+public void funcUse() {
+AbstractSniHandler abstractsnihandler = new AbstractSniHandler();
+}
+}
